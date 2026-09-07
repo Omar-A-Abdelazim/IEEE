@@ -20,7 +20,13 @@ The Chairman sets the direction, represents the branch externally, and makes the
 
 **The fundamental difference between me and the Chairman:**
 
-| Chairman | Vice Chair | || --- | --- | || Strategic vision and direction | Daily follow-up and execution | || External representation (SAC, other branches) | Internal consistency across Cycles | || Final decision | Escalation and early warning | || Building the Framework | Implementing the Framework in practice | || Owner of the full Context | Guardian of Context implementation across every Cycle | |
+| Chairman | Vice Chair |
+| --- | --- |
+| Strategic vision and direction | Daily follow-up and execution |
+| External representation (SAC, other branches) | Internal consistency across Cycles |
+| Final decision | Escalation and early warning |
+| Building the Framework | Implementing the Framework in practice |
+| Owner of the full Context | Guardian of Context implementation across every Cycle |
 
 This plan **does not repeat** what the Chairman stated in his plan. Instead, it details the execution gap that my role fills in each of the sections he defined.
 
