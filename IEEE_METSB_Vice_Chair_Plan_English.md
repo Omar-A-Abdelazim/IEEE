@@ -70,7 +70,12 @@ He identifies the strategic problem (a weak Pipeline). I identify its **daily sy
 
 The Chairman defined four pillars: Leadership Pipeline, Independence & Member Growth, Network & Branch Presence, and One Direction One Board. I am not adding a fifth pillar; I am the **person responsible for measuring the implementation of all four pillars**:
 
-| Pillar | My Role | || --- | --- | || Leadership Pipeline | I actively track which members are developing toward Head/Vice roles and maintain a live Talent Map (not only at the end of the season, as the Chairman himself proposed in Proposal 8). | || Independence & Member Growth | I monitor whether members rely on the Chairman/Vice for every small step or have actually become independent — a direct indicator of this pillar's success. | || Network & Branch Presence | I act as the Chairman's deputy in any external representation when he is busy — meaning I must stay informed about all communication with SAC and other branches continuously, not only when needed. | || One Direction, One Board | This is the pillar closest to the core of my role — I am the executive responsible for ensuring that every Cycle understands the same Context. | |
+| Pillar | My Role |
+| --- | --- |
+| Leadership Pipeline | I actively track which members are developing toward Head/Vice roles and maintain a live Talent Map (not only at the end of the season, as the Chairman himself proposed in Proposal 8). |
+| Independence & Member Growth | I monitor whether members rely on the Chairman/Vice for every small step or have actually become independent — a direct indicator of this pillar's success. |
+| Network & Branch Presence | I act as the Chairman's deputy in any external representation when he is busy — meaning I must stay informed about all communication with SAC and other branches continuously, not only when needed. |
+| One Direction, One Board | This is the pillar closest to the core of my role — I am the executive responsible for ensuring that every Cycle understands the same Context. |
 
 ---
 
@@ -252,7 +257,12 @@ The official description of my role in the Chairman's plan:
 
 **In detail, this means in practice:**
 
-| Responsibility | Details | || --- | --- | || Follow-up | I review the progress of every Cycle weekly against the seasonal plan (Roadmap, Section 22). | || Execution | I execute any decision made by the Chairman at the level of daily operations. | || Deputy Role During Absence | If the Chairman is unavailable (travel, emergency), I lead the Board meeting and represent the branch in any urgent communication with SAC or the Section, while informing him of every decision made immediately upon his return. | || Maintaining Alignment | I serve as the first line of defense against Silos between the Cycles (detailed in Section 13 above). | |
+| Responsibility | Details |
+| --- | --- |
+| Follow-up | I review the progress of every Cycle weekly against the seasonal plan (Roadmap, Section 22). |
+| Execution | I execute any decision made by the Chairman at the level of daily operations. |
+| Deputy Role During Absence | If the Chairman is unavailable (travel, emergency), I lead the Board meeting and represent the branch in any urgent communication with SAC or the Section, while informing him of every decision made immediately upon his return. |
+| Maintaining Alignment | I serve as the first line of defense against Silos between the Cycles (detailed in Section 13 above). |
 
 **Limits of My Authority (Important to Clarify from the Start):**
 
@@ -266,7 +276,13 @@ The official description of my role in the Chairman's plan:
 
 The Chairman established a general KPI table for the entire branch. I am responsible for **feeding this table with actual data** periodically, rather than reviewing it only at the end of the season:
 
-| Indicator (from the Chairman's Plan) | My Role in Measuring It | || --- | --- | || Member Development | I collect HR evaluations from every Cycle monthly and update the Tracker. | || Leadership Readiness | I update the Talent Map after every Event/Simulation. | || Branch Growth | I track the percentage of Active Members weekly (after establishing a unified definition, as in the Chairman's Proposal 1). | || Board Coordination | I conduct an honest Self-Assessment of how successfully I am breaking Silos each month. | || Event Learning Value | I collect the Post-event evaluations and connect them to the Development Tracker. | |
+| Indicator (from the Chairman's Plan) | My Role in Measuring It |
+| --- | --- |
+| Member Development | I collect HR evaluations from every Cycle monthly and update the Tracker. |
+| Leadership Readiness | I update the Talent Map after every Event/Simulation. |
+| Branch Growth | I track the percentage of Active Members weekly (after establishing a unified definition, as in the Chairman's Proposal 1). |
+| Board Coordination | I conduct an honest Self-Assessment of how successfully I am breaking Silos each month. |
+| Event Learning Value | I collect the Post-event evaluations and connect them to the Development Tracker. |
 
 ---
 
@@ -296,7 +312,19 @@ This section is especially important to me because it is precisely where I prepa
 
 The same Roadmap as the Chairman's (Sections 22–23 in his plan), but with my operational intervention point shown alongside each stage:
 
-| # Stage (from the Chairman's Plan) | My Intervention Point as Vice Chair | | || --- | --- | --- | || 01 | Chairman Elected → Returning Members Form | I help design and send the Form | || 02 | Board Recruitment → Interviews → New Board | I manage the Interviews schedule and document them | || 03 | Season Alignment → Board Training | I facilitate the meeting and follow up on each Head's understanding of their role | || 04 | Recruitment I → Orientation → Training Week | I manage the entire operational Timeline | || 05 | Event 1: Officers Lead | I participate as an Officer in direct execution | || 06 | Continuous HR Tracking + R&D planning | I review HR reports monthly and follow up on R&D delivery to the Cycles | || 07 | Recruitment II → Integration | I personally review applications and manage integration | || 08 | Event 2: Officer Simulation | I serve as the direct supervisor of the team | || 09 | Event 3: Second Simulation | I serve as the direct supervisor + provide final documentation for the Talent Map | || 10 | End-of-Season Readiness → Applications | I update the final Talent Map | || 11 | Final Reports → Handover | I prepare the separate Vice Chair report + decision archive | |
+| # Stage (from the Chairman's Plan) | My Intervention Point as Vice Chair |  |
+| --- | --- | --- |
+| 01 | Chairman Elected → Returning Members Form | I help design and send the Form |
+| 02 | Board Recruitment → Interviews → New Board | I manage the Interviews schedule and document them |
+| 03 | Season Alignment → Board Training | I facilitate the meeting and follow up on each Head's understanding of their role |
+| 04 | Recruitment I → Orientation → Training Week | I manage the entire operational Timeline |
+| 05 | Event 1: Officers Lead | I participate as an Officer in direct execution |
+| 06 | Continuous HR Tracking + R&D planning | I review HR reports monthly and follow up on R&D delivery to the Cycles |
+| 07 | Recruitment II → Integration | I personally review applications and manage integration |
+| 08 | Event 2: Officer Simulation | I serve as the direct supervisor of the team |
+| 09 | Event 3: Second Simulation | I serve as the direct supervisor + provide final documentation for the Talent Map |
+| 10 | End-of-Season Readiness → Applications | I update the final Talent Map |
+| 11 | Final Reports → Handover | I prepare the separate Vice Chair report + decision archive |
 
 ---
 
